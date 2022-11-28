@@ -14,7 +14,7 @@ We have 3 files created for each task. Tasks will be written below:
 
 <h1> Task 1 </h1> 
 
-So here's what to do: we have AA test data from '2022-07-06' to '2022-07-12'. What you need to do is simulate as if we ran 10,000 AA tests. At each iteration, you need to form non-repetitive subsamples of 500 users from the 2nd and 3rd experimental groups. Compare these subsamples with a t-test.
+So here's what to do: we have AA test data from '2022-08-27' to '2022-09-22'. What you need to do is simulate as if we ran 10,000 AA tests. At each iteration, you need to form non-repetitive subsamples of 500 users from the 2nd and 3rd experimental groups. Compare these subsamples with a t-test.
 
 1. Construct a histogram of the distribution of the resulting 10000 p-values.
 
