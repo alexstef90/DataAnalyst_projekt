@@ -1,6 +1,7 @@
-# DataAnalyst_projekt
 AB-testing
 Conducting AA testing, validating it using t-test, mann whitney test. Booststapping the data.
+
+Working File
 
 Description of the project
 The ML team came to me and made some new news feed recommendation algorithms. Naturally, it is expected that new algorithms will make users happier (that is, LTV will lengthen, money conversions will increase, etc.), and the product will be more convenient/pleasant to use. As an analyst, I must test this hypothesis.
