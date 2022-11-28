@@ -1,8 +1,6 @@
 # AB-testing
 Conducting AA testing, validating it using t-test, mann whitney test. Booststapping the data. 
 
-<a href="https://github.com/egorkapot/Karpov-Analyst-Simulator/blob/main/AB%20testing.ipynb"> Working File </a>
-
 <h1> Description of the project </h1>
 
 The ML team came to me and made some new news feed recommendation algorithms. Naturally, it is expected that new algorithms will make users happier (that is, LTV will lengthen, money conversions will increase, etc.), and the product will be more convenient/pleasant to use. As an analyst, I must test this hypothesis.
